@@ -1,7 +1,6 @@
 package interfaces;
 
 /*
- * 
  * AttributeBonus is a class of "bonus" stats that can be found on equipments, usable objects, or classes
  * It consists of the type that it will be applied to, the value, and whether it is multiplicative
  */
