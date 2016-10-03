@@ -117,7 +117,6 @@ public class GameUI {
 			}
 		});
 		
-	    //some examples
 
 		//this validate an on-click event for New Game button
 		new_game_button.addActionListener(new ActionListener() {
